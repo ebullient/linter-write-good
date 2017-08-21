@@ -55,8 +55,6 @@ module.exports =
         "source.asciidoc"
         "text.md"
         "text.git-commit"
-        "text.plain"
-        "text.plain.null-grammar"
         "text.restructuredtext"
         "text.bibtex"
         "text.tex.latex"
